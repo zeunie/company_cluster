@@ -1,0 +1,4 @@
+pandas
+nltk
+node2vec
+networkx
