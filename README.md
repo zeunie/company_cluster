@@ -1,5 +1,5 @@
 # RE results graph visualization and company clustering
-Winter Intern Project at KAIST Applied Artificial Intelligence Lab
+Winter Intern Project at KAIST Applied Artificial Intelligence Lab  
 Junhyeok Jung(KAIST), Kwanghyeon Lee(KAIST), Jiwoo Shin(KAIST), Jieun Han(HUFS)
 
 
